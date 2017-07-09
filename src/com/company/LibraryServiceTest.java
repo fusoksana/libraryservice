@@ -106,6 +106,7 @@ public class LibraryServiceTest {
     @Test
     public void testAddStudentByAgg(){
         System.out.println("Test");
+        System.out.println("Kotsyryk");
         List<Student>students=new ArrayList<Student>();
         Student s1=new Student("Vasko","Oksana",31,0045);
         Student s2=new Student("Vaskojhhf","Ok",33,0046);
